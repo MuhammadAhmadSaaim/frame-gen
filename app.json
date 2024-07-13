@@ -2,7 +2,7 @@
   "expo": {
     "name": "FrameGen",
     "scheme": "frame-gen",
-    "slug": "framegen",
+    "slug": "frame-gen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
