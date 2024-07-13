@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "FrameGen",
-    "scheme": "frame-gen",
-    "slug": "frame-gen",
+    "name": "Aora",
+    "scheme": "aora",
+    "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
